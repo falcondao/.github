@@ -15,7 +15,7 @@ falcondao NFT is a badge of honour and IQ. Some say - if you have a falcondao nf
 ## Governance
 Falcon DAO is governed by the falcondao NFT holders. 1 NFT = 1 vote.
 
-The Falcon DAO treasury is at `2Pyny5QeVV2fjoAXX7TDBhfmf68LzLdZ5iHGe2QoRWTo` ((View on Solana Explorer)[https://explorer.solana.com/address/2Pyny5QeVV2fjoAXX7TDBhfmf68LzLdZ5iHGe2QoRWTo])
+The Falcon DAO treasury is at `2Pyny5QeVV2fjoAXX7TDBhfmf68LzLdZ5iHGe2QoRWTo` ([View on Solana Explorer](https://explorer.solana.com/address/2Pyny5QeVV2fjoAXX7TDBhfmf68LzLdZ5iHGe2QoRWTo))
 
 
 ## falcondao NFT
