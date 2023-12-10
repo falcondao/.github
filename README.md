@@ -31,3 +31,7 @@ There are a total of 8000 falcondao NFTs. They were all pre-minted to the deploy
 The remaining x were moved to the Falcon DAO treasury for future expenses.
 
 There is a 5% secondary market sales tax on the NFT whose proceeds go to the DAO treasury.
+
+**Traits**
+The NFTs were generated using generative AI with the prompts found in the `nfts` repository. The first 4000 NFTs were manually filtered to appoint certain NFTs as "special" due to outstanding attributes. The traits in the collection are:
+- 
